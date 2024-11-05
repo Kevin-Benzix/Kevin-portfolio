@@ -121,7 +121,7 @@ export default function Project() {
                 <p className="l-bodyContent">5GB Storage</p>
                 <p className="l-bodyContent">Mail Support</p>
                 <p className="l-bodyContent">
-                  <strong className="dollar">$ 10</strong>
+                  <strong className="dollar"> 10</strong>
                   <br /> per month
                 </p>
               </div>
@@ -139,7 +139,7 @@ export default function Project() {
                 <p className="l-bodyContent">50GB Storage</p>
                 <p className="l-bodyContent">Endless Support</p>
                 <p className="l-bodyContent">
-                  <strong className="dollar">$ 25</strong>
+                  <strong className="dollar"> 25</strong>
                   <br /> per month
                 </p>
               </div>
@@ -212,7 +212,7 @@ export default function Project() {
           </p>
           <p>
             <i className="fa fa-envelope"></i>
-            <span>Email: Kevinbelusochi@gmail.com</span>
+            <span>Email: Kevinbelusochigmail.com</span>
           </p>
           <p className="message">Let's get in touch. Send me a message:</p>
           <form action="">
