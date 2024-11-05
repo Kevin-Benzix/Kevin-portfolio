@@ -53,7 +53,7 @@ export default function Project() {
       </header>
       <div className="main-page">
         <div className="home" id="home">
-          <h1>I'm Kevin Benzix.</h1>
+          <h1>I am Kevin Benzix.</h1>
           <p>Programmer and Web Designer.</p>
           <img src="small pic.jpg" />
         </div>
