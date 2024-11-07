@@ -53,7 +53,7 @@ export default function Project() {
       </header>
       <div className="main-page">
         <div className="home" id="home">
-          <h1>I am Kevin Benzix.</h1>
+          <h1>Im Kevin Benzix.</h1>
           <p>Programmer and Web Designer.</p>
           <img src="small pic.jpg" />
         </div>
@@ -121,7 +121,7 @@ export default function Project() {
                 <p className="l-bodyContent">5GB Storage</p>
                 <p className="l-bodyContent">Mail Support</p>
                 <p className="l-bodyContent">
-                  <strong className="dollar"> 10</strong>
+                  <strong className="dollar">$ 10</strong>
                   <br /> per month
                 </p>
               </div>
@@ -139,7 +139,7 @@ export default function Project() {
                 <p className="l-bodyContent">50GB Storage</p>
                 <p className="l-bodyContent">Endless Support</p>
                 <p className="l-bodyContent">
-                  <strong className="dollar"> 25</strong>
+                  <strong className="dollar">$ 25</strong>
                   <br /> per month
                 </p>
               </div>
@@ -155,7 +155,7 @@ export default function Project() {
             </div>
             <div className="r-reputation">
               <p>
-                <span>Lionel Messi.</span> Eight times Ballon d'or Winner.
+                <span>Lionel Messi.</span> Eight times Ballon dor Winner.
               </p>
               <p>Benzix Kevin saved us from a web disaster.</p>
             </div>
@@ -212,9 +212,9 @@ export default function Project() {
           </p>
           <p>
             <i className="fa fa-envelope"></i>
-            <span>Email: Kevinbelusochigmail.com</span>
+            <span>Email: Kevinbelusochi@gmail.com</span>
           </p>
-          <p className="message">Let's get in touch. Send me a message:</p>
+          <p className="message">Lets get in touch. Send me a message:</p>
           <form action="">
           <input placeholder="Name" title="Please fill out this field."  required/>
           <input placeholder="Email" title="Please fill out this field." required/>
